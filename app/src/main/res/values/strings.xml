@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MilanaMid2</string>
+    <string name="direct">Direct</string>
+    <string name="pods">Pods</string>
+    <string name="groups">Groups</string>
+    <string name="messages">Messages</string>
+    <string name="search_people_and_messages">Search people and messages</string>
+</resources>
